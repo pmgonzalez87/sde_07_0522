@@ -1,0 +1,42 @@
+:root {
+    --blue: #6495ed;
+    --white: #ffff;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.box {
+    border-width: 1px;
+    border-style: solid;
+    margin: 20px;
+    padding: 20px;
+}
+
+#section_1 {
+    height: 80vh;
+    border-color: red;
+}
+
+#section_2 {
+    height: 30vh;
+    border-color: blue;
+    background-color: var()
+}
+
+#section_3 {
+    height:20vh;
+    border-color: teal;
+}
+
+.highlighted {
+    background-color: yellow;  
+}
+
+#lorem_4 {
+    position: fixed;
+    right: 50vh;
+    bottom: 50vh;
+
+}

@@ -1,0 +1,22 @@
+.underlined_text{
+    text-decoration: underline;
+  }
+  
+  .red_bg{
+    background-color: red;
+  }
+  
+  #teal_bg{
+    background-color: teal;
+  }
+  
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  .resize{
+      height: auto; 
+      width: auto; 
+      max-width: 1200px; 
+      max-height: 800px;
+  }
